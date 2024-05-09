@@ -53,8 +53,8 @@ To run this code, you need the following installed on your machine:
 3.Use API endpoints to interact with the assistant data.
 
 ## API Endpoints
-* GET /: Serve index.html file.<br>
-* POST /assistant: Add a new assistant to the database.<br>
-* GET /assistant/:assistant_id: Retrieve assistant details by ID.<br>
-* PUT /assistant/:assistant_id: Update assistant details by ID.<br>
-* DELETE /assistant/:assistant_id: Delete an assistant by ID.
+* GET `/`: Serve index.html file.<br>
+* POST `/assistant`: Add a new assistant to the database.<br>
+* GET `/assistant/:assistant_id`: Retrieve assistant details by ID.<br>
+* PUT `/assistant/:assistant_id`: Update assistant details by ID.<br>
+* DELETE `/assistant/:assistant_id`: Delete an assistant by ID.
