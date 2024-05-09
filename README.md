@@ -24,4 +24,4 @@ To run this code, you need the following installed on your machine:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone [https://github.com/your_username/express-assistant-management.git](https://github.com/Kshitij-Sharma-19/Hirademy.git]
+   git clone https://github.com/your_username/express-assistant-management.git](https://github.com/Kshitij-Sharma-19/Hirademy.git
